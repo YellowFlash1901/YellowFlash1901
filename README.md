@@ -9,17 +9,6 @@
 
 ---
 
-#### Education
-- **National University of Ireland, Galway (NUIG)**, Galway, Ireland  
-  **M.Sc. in Data Analytics**; Grade: 2:1 (68%)  
-  *Sept 2023 – Sept 2024*
-
-- **Fr. C. Rodrigues Institute of Technology (FCRIT)**, India  
-  **B.Tech in Computer Engineering**; Grade: 1:1 (79.8%)  
-  *Aug 2019 – May 2023*
-
----
-
 #### Experience
 - **Magnet AI**, Galway, Ireland  
   **Full Stack Software Developer (Full-time)**  
