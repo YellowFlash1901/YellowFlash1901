@@ -9,14 +9,15 @@
 ---
 
 ## 👋 About Me  
-🚀 I’m a passionate **Full Stack Software Developer** skilled in building scalable, robust applications that deliver exceptional user experiences. I specialize in **frontend and backend development**, **API design**, and **automation workflows**. With a focus on continuous learning, I thrive in collaborative, fast-paced environments.
+🚀 I'm a passionate **Full Stack Software Developer** skilled in building scalable, robust applications that deliver exceptional user experiences. I specialize in **frontend and backend development**, **API design**, and **automation workflows**. With a focus on continuous learning, I thrive in collaborative, fast-paced environments.
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YellowFlash1901&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YellowFlash1901&layout=compact&theme=blue-green)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=YellowFlash1901&show_icons=true&theme=blue-green&include_all_commits=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YellowFlash1901&layout=compact&theme=blue-green)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YellowFlash1901&theme=blue-green)](https://git.io/streak-stats)
 
 ---
 
